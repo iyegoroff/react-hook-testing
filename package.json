@@ -1,6 +1,6 @@
 {
   "name": "react-hook-testing",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "useReducer with effects, the elmish way",
   "sideEffects": false,
   "types": "./dist/dts/index.d.ts",
