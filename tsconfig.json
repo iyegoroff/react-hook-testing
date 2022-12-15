@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ES2018",
+    "strict": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "removeComments": true,
+    "noEmitOnError": true,
+    "esModuleInterop": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "noImplicitReturns": true,
+    "allowUnreachableCode": false,
+    "noUncheckedIndexedAccess": true,
+    "noFallthroughCasesInSwitch": true,
+    "types": ["jest", "node"]
+  }
+}
