@@ -30,7 +30,7 @@ import { renderHook } from 'react-hook-testing'
 
 describe('renderHook', () => {
   test('should handle useState', async () => {
-    // !!! requires await
+    // !!! requires await !!!
     const { result } = await renderHook(() => useState(1))
 
     expect(result.current[0]).toEqual(1)
